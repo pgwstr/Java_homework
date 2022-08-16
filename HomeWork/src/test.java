@@ -10,4 +10,11 @@ public class test {
         System.out.println("test");
         System.out.println("123");
     }
+    class Person{
+        private int i;
+        private int age;
+        private static int height;
+        private final static double o = 1;
+
+    }
 }
