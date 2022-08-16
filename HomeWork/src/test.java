@@ -8,5 +8,6 @@ public class test {
         System.out.println("hello github");
         System.out.println("8月16日");
         System.out.println("test");
+        System.out.println("123");
     }
 }
