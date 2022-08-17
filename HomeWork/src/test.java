@@ -14,7 +14,7 @@ public class test {
         private int i;
         private int age;
         private static int height;
-        private final static double o = 1;
+        private final static double o = 2;
 
     }
 }
