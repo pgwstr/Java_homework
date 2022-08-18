@@ -10,11 +10,18 @@ public class test {
         System.out.println("test");
         System.out.println("123");
     }
+    /**
+     * @author pgwstr
+     * @date 2022/8/18 11:18 PM
+     */
+    
     class Person{
         private int i;
         private int age;
         private static int height;
         private final static double o = 2;
-
+        int st;
+        
+        
     }
 }
