@@ -21,7 +21,6 @@ public class test {
         private static int height;
         private final static double o = 2;
         int st;
-        
-        
+
     }
 }
