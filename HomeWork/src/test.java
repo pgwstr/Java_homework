@@ -22,5 +22,12 @@ public class test {
         private final static double o = 2;
         int st;
 
+        public int getI() {
+            return i;
+        }
+
+        public int getSt() {
+            return st;
+        }
     }
 }
