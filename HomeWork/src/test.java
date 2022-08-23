@@ -29,5 +29,9 @@ public class test {
         public int getSt() {
             return st;
         }
+
+        public static double getO() {
+            return o;
+        }
     }
 }
