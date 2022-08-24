@@ -33,5 +33,9 @@ public class test {
         public static double getO() {
             return o;
         }
+
+        public int getAge() {
+            return age;
+        }
     }
 }
