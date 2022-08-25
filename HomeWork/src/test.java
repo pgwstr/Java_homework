@@ -37,5 +37,9 @@ public class test {
         public int getAge() {
             return age;
         }
+
+        public void setI(int i) {
+            this.i = i;
+        }
     }
 }
