@@ -5,6 +5,8 @@
 
 public class test {
     public static void main(String[] args) {
+        Person p1 = new Person();
+        p1.setI(1);
         System.out.println("hello github");
         System.out.println("8月16日");
         System.out.println("test");
@@ -15,7 +17,7 @@ public class test {
      * @date 2022/8/18 11:21 PM
      */
     
-    class Person{
+  static   class Person{
         private int i;
         private int age;
         private static int height;
