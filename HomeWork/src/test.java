@@ -43,5 +43,9 @@ public class test {
         public void setI(int i) {
             this.i = i;
         }
+
+        public static int getHeight() {
+            return height;
+        }
     }
 }
